@@ -1,8 +1,9 @@
 # beetorrent
 
 <div align="left">
-  <img width="400px" src="https://github.com/user-attachments/assets/2b24c30c-b5f9-4cf6-9bc5-24eb0cd3a6e0">
+  <img width="400px" src="https://github.com/user-attachments/assets/451a30ed-3271-4b62-bf5c-e5a9e0574796">
 </div>
+
 
 ## What is Beetorrent?
 
